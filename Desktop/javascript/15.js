@@ -14,3 +14,4 @@ console.log(drink);
 
 let ages = 10;
 let drinks = ages <=8 ? "milk" : "coffee";
+console.log()

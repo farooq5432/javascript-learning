@@ -1,5 +1,5 @@
-// declare constant (unchangable))
+// declare constant (unchangable) same name 1 time use only
 
 const pi = 3.14;
-const pi = 3.67;
+
 console.log(pi)

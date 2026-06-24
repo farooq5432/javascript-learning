@@ -1,3 +1,4 @@
+"use strict";
 // intro to variables
 
 // variable can store information 
@@ -8,3 +9,6 @@ console.log(firstname);
 firstname = "Aminkhan";
 
 console.log(firstname)
+
+// rules for naming variables 03 
+
