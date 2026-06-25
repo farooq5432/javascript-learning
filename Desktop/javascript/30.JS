@@ -12,6 +12,6 @@ console.log(fruits.length);
     }
  for(i=0; i<=fruits.length-1; i++){
         console.log(i);
-        fruits2.push(fruits[i].toUpperCase());
+        fruits2.push (fruits[i].toUpperCase());
     }
     console.log(fruits2)

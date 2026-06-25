@@ -9,3 +9,4 @@ while(i<=9){
 }
 console.log("invalid number 4")
 console.log(`current value of i is ${i}`)
+
