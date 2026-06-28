@@ -1,0 +1,13 @@
+// function onside function 
+ function app(){
+    const fun1 =()=>{
+        console.log("unside fun1")
+    }
+    const sum =(num1,num2)=>{
+        return num1 + num2;
+    }
+    console.log("inside app")
+    fun1()
+    console.log(sum(29,29))
+}
+app();
