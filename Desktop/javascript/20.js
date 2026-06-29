@@ -1,0 +1,12 @@
+// while loop 
+
+// DRY dontrepeat yourself
+let i=0;
+
+while(i<=9){
+    console.log(i);
+    i++
+}
+console.log("invalid number 4")
+console.log(`current value of i is ${i}`)
+
