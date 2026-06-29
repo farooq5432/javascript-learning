@@ -1,9 +1,0 @@
-// nested destructuring 
-const user = [
-    {userid :1 , name:"farooq" , place : "karachi"},
-    {userid :2 , name:"farooq ", place : "karachi"},
-    {userid :3 , name:"farooq ", place : "karachi"},
-]
-const [{name}, ,{place}] = users
-console.log(user1)
-console.log(users)
