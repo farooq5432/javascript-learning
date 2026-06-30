@@ -4,7 +4,7 @@ function f(){
     function hello(){
         console.log("hello bro inside function")
     }
-    return hello();
+    return hello;
 }
 const ans = f()
-console.log(ans)
+console.log(ans())
